@@ -1,0 +1,4 @@
+C:\Users\Ahnaf Sayed\source\repos\Account\Account\obj\Debug\Account.csprojAssemblyReference.cache
+C:\Users\Ahnaf Sayed\source\repos\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\Account\Account\obj\Debug\Account.csprojAssemblyReference.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache

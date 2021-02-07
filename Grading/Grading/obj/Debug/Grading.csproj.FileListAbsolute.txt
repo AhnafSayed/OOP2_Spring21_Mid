@@ -1,0 +1,7 @@
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\bin\Debug\Grading.exe.config
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\bin\Debug\Grading.exe
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\bin\Debug\Grading.pdb
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\obj\Debug\Grading.csprojAssemblyReference.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\obj\Debug\Grading.csproj.CoreCompileInputs.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\obj\Debug\Grading.exe
+A:\Spring 2021\Object Oriented Programming-2\Codes\Lab Test\Grading\Grading\obj\Debug\Grading.pdb

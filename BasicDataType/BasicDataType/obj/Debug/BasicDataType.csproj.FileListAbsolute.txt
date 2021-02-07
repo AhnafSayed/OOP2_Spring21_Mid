@@ -1,7 +1,0 @@
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\bin\Debug\BasicDataType.exe.config
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\bin\Debug\BasicDataType.exe
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\bin\Debug\BasicDataType.pdb
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csprojAssemblyReference.cache
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\obj\Debug\BasicDataType.csproj.CoreCompileInputs.cache
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\obj\Debug\BasicDataType.exe
-A:\Spring 2021\Object Oriented Programming-2\Codes\BasicDataType\BasicDataType\obj\Debug\BasicDataType.pdb
