@@ -1,0 +1,2 @@
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment2\obj\Debug\StudentDepartment2.csprojAssemblyReference.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment2\obj\Debug\StudentDepartment2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\obj\Debug\StudentDepartment.csprojAssemblyReference.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\obj\Debug\StudentDepartment.csproj.CoreCompileInputs.cache
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\bin\Debug\StudentDepartment.exe.config
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\bin\Debug\StudentDepartment.exe
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\bin\Debug\StudentDepartment.pdb
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\obj\Debug\StudentDepartment.exe
+A:\Spring 2021\Object Oriented Programming-2\Codes\StudentDepartment\StudentDepartment\obj\Debug\StudentDepartment.pdb
