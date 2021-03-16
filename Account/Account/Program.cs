@@ -1,28 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Account1
+namespace Account
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Account a1 = new SavingsAccount("Avoid Rafa", "54367", 46000);
-            Account a2 = new CurrentAccount("Avoid Rafa", "56427", 46000);
-            Account a3 = new SavingsAccount("Avoid Rafa", "52866", 46000);
+            Accounts acc1 = new Savings();
+            Accounts acc2 = new Savings("Hasan", 52606, 63000);
+            Accounts acc3 = new SpecialSavings("Jubaer", 57345, 45000, 20);
 
-            Person p = new Person("Avoid Rafa");
+            Accounts acc4 = new Fixed("Rahman", 52346, 6000);
 
-            p.AddAccount(a1, a2, a3);
-            p.ShowAccontDetails();
+            Accounts acc5 = new Overdraft(1500);
+            SpecialSavings s1 = new SpecialSavings(30);
 
-            var acc = p.GetAccount("56427");
-
-            acc.Withdraw(42000);
-
+            Overdraft od = new Overdraft("Hasan", 52606, 63000, 4500);
         }
     }
 }

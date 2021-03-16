@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F58A66C-EB6D-440A-A922-3EABFCAD1251}</ProjectGuid>
+    <ProjectGuid>{2EBF42D5-297D-4F74-8BCB-85E51F187F59}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Account</RootNamespace>
     <AssemblyName>Account</AssemblyName>
@@ -43,12 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Account1.cs" />
-    <Compile Include="CurrentAccount.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="Accounts.cs" />
+    <Compile Include="Fixed.cs" />
+    <Compile Include="Overdraft.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SavingsAccount.cs" />
+    <Compile Include="Savings.cs" />
+    <Compile Include="SpecialSavings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
